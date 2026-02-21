@@ -18,4 +18,5 @@ A simple MP3 Player built using Python and Tkinter with Pygame for audio playbac
 3. Run main.py
 
 ## Note
+Add your 'Music' folder
 Add your MP3 files inside the `Music` folder before running.
